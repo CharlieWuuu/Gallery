@@ -18,22 +18,22 @@
         "data": "2023/11"
     },
     {
-        "url": "https://charliewuuu.github.io/React_Picture_Website/",
-        "figmaUrl": "待補",
-        "pic": "assets/image/work/work_1.png",
-        "name": "React 圖片查詢網站",
-        "tag": ["React"],
-        "description": "React 圖片查詢網站",
-        "data": "-"
-    },
-    {
         "url": "https://map.richitech.com.tw/",
-        "figmaUrl": "待補",
+        "figmaUrl": "2023/02",
         "pic": "assets/image/work/richitech_map.png",
         "name": "瑞竣生活地圖",
         "tag": ["Bootstrap", "Google Sheet", "Figma"],
         "description": "公司地圖作品集網站",
         "data": "2023/3"
+    },
+    {
+        "url": "https://charliewuuu.github.io/React_Picture_Website/",
+        "figmaUrl": "2023/01",
+        "pic": "assets/image/work/work_1.png",
+        "name": "React 圖片查詢網站",
+        "tag": ["React"],
+        "description": "React 圖片查詢網站",
+        "data": "-"
     },
     {
         "url": "https://charliewuuu.github.io/FantasyFilmFestival/1.%20%E9%A6%96%E9%A0%81/index.html",
