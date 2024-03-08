@@ -18,6 +18,24 @@
         "date": "2023/11"
     },
     {
+        "url": "https://map.richitech.com.tw/CartoOnDeckgl/",
+        "figmaUrl": "",
+        "pic": "assets/image/work/CartoOnDeckgl.png",
+        "name": "3D WebGIS",
+        "tag": ["CARTO", "Figma"],
+        "description": "瑞竣生活地圖－－虛擬健保卡就醫地圖。",
+        "date": "2023/06"
+    },
+    {
+        "url": "https://map.richitech.com.tw/VNHICard/",
+        "figmaUrl": "",
+        "pic": "assets/image/work/VNHICard.png",
+        "name": "虛擬健保卡就醫地圖",
+        "tag": ["CARTO", "Figma"],
+        "description": "瑞竣生活地圖－－虛擬健保卡就醫地圖。",
+        "date": "2023/05"
+    },
+    {
         "url": "https://map.richitech.com.tw/",
         "figmaUrl": "",
         "pic": "assets/image/work/richitech_map.png",
@@ -29,7 +47,7 @@
     {
         "url": "https://charliewuuu.github.io/React_Picture_Website/",
         "figmaUrl": "",
-        "pic": "assets/image/work/work_1.png",
+        "pic": "assets/image/work/React_Picture_Website.png",
         "name": "React 圖片查詢網站",
         "tag": ["React"],
         "description": "React 圖片查詢網站",
